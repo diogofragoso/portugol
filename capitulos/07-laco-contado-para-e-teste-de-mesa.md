@@ -1,4 +1,4 @@
-# 🔢 Capítulo 07: Laço Contado (para) & O Método do Teste de Mesa
+# 🔢 Capítulo 07: Laço Contado (para) e o Método do Teste de Mesa
 
 | ⬅️ [Anterior: Laços enquanto/faca](06-lacos-de-repeticao-enquanto-faca.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Vetores](08-vetores-listas-unidimensionais.md) |
 | :--- | :---: | :---: | ---: |

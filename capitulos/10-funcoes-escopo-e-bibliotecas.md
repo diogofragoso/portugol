@@ -1,4 +1,4 @@
-# 🧩 Capítulo 10: Funções, Escopo de Variáveis & Bibliotecas
+# 🧩 Capítulo 10: Funções, Escopo de Variáveis e Bibliotecas
 
 | ⬅️ [Anterior: Matrizes](09-matrizes-tabelas-bidimensionais.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Projeto Final Integrador](11-projeto-final-integrador.md) |
 | :--- | :---: | :---: | ---: |

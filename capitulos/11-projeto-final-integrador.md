@@ -111,7 +111,7 @@ programa {
 
         faca {
             linha()
-            escreva("           SISTEMA DE CONTROLE DE ESTOQUE & PDV             \n")
+            escreva("           SISTEMA DE CONTROLE DE ESTOQUE E PDV             \n")
             linha()
             escreva("  [1] Consultar Tabela de Estoque\n")
             escreva("  [2] Realizar Venda de Produto\n")
