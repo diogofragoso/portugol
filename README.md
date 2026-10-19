@@ -49,7 +49,7 @@ flowchart TD
     end
 
     subgraph M4["MÓDULO 4: Aplicação Prática"]
-        C11["Cap 11: 🏆 Projeto Integrador Final"]
+        C11["Cap 11: 🏆 Projeto Final"]
     end
 
     C01 --> C02 --> C03 --> C04 --> C05 --> C06 --> C07 --> C08 --> C09 --> C10 --> C11
@@ -72,7 +72,7 @@ flowchart TD
 | **08** | 📋 **Vetores (Listas)** | Coleções unidimensionais, índices base-0 e buscas | 🔴 Desafio | [Capítulo 08](capitulos/08-vetores-listas-unidimensionais.md) |
 | **09** | 🗄️ **Matrizes (Tabelas)** | Estruturas bidimensionais (linhas $\times$ colunas) e tabuleiros | 🔴 Desafio | [Capítulo 09](capitulos/09-matrizes-tabelas-bidimensionais.md) |
 | **10** | 🧩 **Funções e Escopo** | Modularização, parâmetros, retorno e bibliotecas | 🔴 Desafio | [Capítulo 10](capitulos/10-funcoes-escopo-e-bibliotecas.md) |
-| **11** | 🏆 **Projeto Final Integrador** | Sistema de Gestão de Estoque e Jogo da Velha completo | 🏆 Master | [Capítulo 11](capitulos/11-projeto-final-integrador.md) |
+| **11** | 🏆 **Projeto Final** | Sistema de Gestão de Estoque e Jogo da Velha completo | 🏆 Master | [Capítulo 11](capitulos/11-projeto-final.md) |
 
 ---
 
@@ -153,7 +153,7 @@ Marque suas conquistas à medida que avança na jornada:
 - [ ] **Capítulo 08**: Sei armazenar vários dados em um `vetor` e percorrê-lo com `para`.
 - [ ] **Capítulo 09**: Consigo manipular tabelas bidimensionais com `matrizes`.
 - [ ] **Capítulo 10**: Sei criar minhas próprias `funções`, passar parâmetros e retornar valores.
-- [ ] **Capítulo 11**: Concluí o Projeto Integrador Final! 🎓
+- [ ] **Capítulo 11**: Concluí o Projeto Final! 🎓
 
 ---
 

@@ -1,4 +1,4 @@
-# 🏆 Capítulo 11: Projeto Final Integrador
+# 🏆 Capítulo 11: Projeto Final
 
 | ⬅️ [Anterior: Funções e Bibliotecas](10-funcoes-escopo-e-bibliotecas.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) |
 | :--- | :---: | ---: |
