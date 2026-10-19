@@ -405,3 +405,4 @@ programa {
 
 | ⬅️ [Anterior: Laço Contado (para)](07-laco-contado-para-e-teste-de-mesa.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Matrizes](09-matrizes-tabelas-bidimensionais.md) |
 | :--- | :---: | :---: | ---: |
+

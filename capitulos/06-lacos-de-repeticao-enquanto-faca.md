@@ -427,3 +427,4 @@ programa {
 
 | ⬅️ [Anterior: Múltipla Escolha](05-multipla-escolha-escolha-caso.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Laço Contado (para)](07-laco-contado-para-e-teste-de-mesa.md) |
 | :--- | :---: | :---: | ---: |
+

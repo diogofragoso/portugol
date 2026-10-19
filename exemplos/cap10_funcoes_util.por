@@ -22,3 +22,4 @@ programa {
         escreva("[", sorteio, "]!\n")
     }
 }
+

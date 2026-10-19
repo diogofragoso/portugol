@@ -526,3 +526,4 @@ programa {
 
 | ⬅️ [Anterior: Condicionais se/senao](04-estruturas-condicionais-se-senao.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Laços enquanto/faca](06-lacos-de-repeticao-enquanto-faca.md) |
 | :--- | :---: | :---: | ---: |
+

@@ -385,3 +385,4 @@ Antes de ir para o próximo capítulo, confirme se você é capaz de:
 
 | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Variáveis e Entrada](02-variaveis-tipos-e-entrada-de-dados.md) |
 | :--- | :---: | ---: |
+

@@ -295,3 +295,4 @@ programa {
 | **Desfazer / Refazer** | `Ctrl + Z` / `Ctrl + Y` |
 | **Duplicar linha** | `Ctrl + D` |
 | **Comentar/Descomentar linha selecionada** | `Ctrl + /` |
+

@@ -21,3 +21,4 @@ programa {
         escreva("a é maior que b? ", (a > b), "\n")
     }
 }
+

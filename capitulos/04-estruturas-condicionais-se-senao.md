@@ -454,3 +454,4 @@ programa {
 
 | ⬅️ [Anterior: Operadores](03-operadores-aritmeticos-relacionais-e-logicos.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Múltipla Escolha](05-multipla-escolha-escolha-caso.md) |
 | :--- | :---: | :---: | ---: |
+

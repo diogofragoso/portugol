@@ -435,3 +435,4 @@ programa {
 
 | ⬅️ [Anterior: Vetores](08-vetores-listas-unidimensionais.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Funções](10-funcoes-escopo-e-bibliotecas.md) |
 | :--- | :---: | :---: | ---: |
+

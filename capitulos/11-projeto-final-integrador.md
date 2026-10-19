@@ -315,3 +315,4 @@ Parabéns por completar toda a trilha! Salve este repositório nos seus favorito
 
 | ⬅️ [Anterior: Funções e Bibliotecas](10-funcoes-escopo-e-bibliotecas.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) |
 | :--- | :---: | ---: |
+

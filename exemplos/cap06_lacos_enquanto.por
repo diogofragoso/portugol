@@ -22,3 +22,4 @@ programa {
         escreva("Soma total acumulada: ", soma, "\n")
     }
 }
+

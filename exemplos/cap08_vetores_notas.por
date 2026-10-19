@@ -22,3 +22,4 @@ programa {
         escreva("Média Geral: ", media, "\n")
     }
 }
+

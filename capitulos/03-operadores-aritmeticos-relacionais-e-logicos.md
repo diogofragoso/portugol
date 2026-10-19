@@ -404,3 +404,4 @@ Antes de avançar para as condicionais, teste-se:
 
 | ⬅️ [Anterior: Variáveis e Entrada](02-variaveis-tipos-e-entrada-de-dados.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Condicionais se/senao](04-estruturas-condicionais-se-senao.md) |
 | :--- | :---: | :---: | ---: |
+
