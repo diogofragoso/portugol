@@ -1,4 +1,4 @@
-# 📦 Capítulo 02: Variáveis, Tipos de Dados & Entrada do Usuário
+# 📦 Capítulo 02: Variáveis, Tipos de Dados e Entrada do Usuário
 
 | ⬅️ [Anterior: O que é Programar](01-introducao-e-portugol-webstudio.md) | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Operadores](03-operadores-aritmeticos-relacionais-e-logicos.md) |
 | :--- | :---: | :---: | ---: |

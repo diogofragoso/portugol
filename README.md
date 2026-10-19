@@ -1,17 +1,17 @@
-# 🚀 Trilha Autodidata de Lógica de Programação com Portugol Webstudio
+# 🚀 Trilha de Aprendizagem de Lógica de Programação com Portugol Webstudio
 
 > **Aprenda a programar do absoluto zero**, no seu próprio ritmo, direto pelo navegador e sem precisar instalar nada!
 
-[![Acessar Portugol Webstudio](https://img.shields.io/badge/Ambiente-Portugol%20Webstudio-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portugol.dev/)
-[![Status](https://img.shields.io/badge/Status-100%25%20Completo-brightgreen?style=for-the-badge)](#-sumário-do-curso)
+[![Acessar Portugol Webstudio](https://img.shields.io/badge/Ambiente-Portugol%20Webstudio-blue?style=for-the-badge)](https://portugol.dev/)
+[![Status](https://img.shields.io/badge/Status-100%25%20Completo-brightgreen?style=for-the-badge)](#-sumário-da-trilha-de-aprendizagem)
 [![Nível](https://img.shields.io/badge/Nível-Iniciante%20ao%20Intermediário-orange?style=for-the-badge)](#)
 [![Licença](https://img.shields.io/badge/Licença-MIT-lightgrey?style=for-the-badge)](#)
 
 ---
 
-## 🎯 Sobre o Curso
+## 🎯 Sobre a Trilha de Aprendizagem
 
-Este curso foi desenhado especialmente para quem **nunca escreveu uma única linha de código na vida**. Em vez de começar com linguagens complexas cheias de regras em inglês (como Java, C ou Python), você aprenderá o mais importante primeiro: **a pensar como uma pessoa programadora**.
+Esta trilha de aprendizagem foi desenhada especialmente para quem **nunca escreveu uma única linha de código na vida**. Em vez de começar com linguagens complexas cheias de regras em inglês (como Java, C ou Python), você aprenderá o mais importante primeiro: **a pensar como uma pessoa programadora**.
 
 Para isso, utilizamos o **Portugol**, uma pseudolinguagem em língua portuguesa, executada diretamente no navegador pelo [Portugol Webstudio (portugol.dev)](https://portugol.dev/).
 
@@ -25,12 +25,12 @@ flowchart LR
 
 ---
 
-## 🗺️ Mapa da Trilha de Aprendizado
+## 🗺️ Mapa da Trilha de Aprendizagem
 
 ```mermaid
 flowchart TD
     subgraph M1["MÓDULO 1: Primeiros Passos no Código"]
-        C01["Cap 01: O que é Programar & Webstudio"]
+        C01["Cap 01: O que é Programar e Webstudio"]
         C02["Cap 02: Variáveis, Tipos e Entrada"]
         C03["Cap 03: Operadores e Expressões"]
     end
@@ -39,7 +39,7 @@ flowchart TD
         C04["Cap 04: Condicionais (se / senao)"]
         C05["Cap 05: Casos e Menus (escolha / caso)"]
         C06["Cap 06: Repetição Condicional (enquanto / faca)"]
-        C07["Cap 07: Repetição Contada (para) & Teste de Mesa"]
+        C07["Cap 07: Repetição Contada (para) e Teste de Mesa"]
     end
 
     subgraph M3["MÓDULO 3: Estruturas de Dados e Modularização"]
@@ -57,28 +57,28 @@ flowchart TD
 
 ---
 
-## 🧭 Sumário do Curso
+## 🧭 Sumário da Trilha de Aprendizagem
 
 | Cap. | Tópico | O que você vai dominar | Dificuldade | Arquivo |
 | :---: | :--- | :--- | :---: | :---: |
 | **00** | ⚡ **Guia Rápido** | Resumo de sintaxe e cola de comandos para consulta | Todas | [Acessar Guia](guia-rapido-portugol.md) |
-| **01** | 🚀 **Introdução & Portugol** | Algoritmos, console, `escreva()` e a interface web | 🟢 Fácil | [Capítulo 01](capitulos/01-introducao-e-portugol-webstudio.md) |
-| **02** | 📦 **Variáveis & Entrada** | Memória, tipos (`inteiro`, `real`, `cadeia`, `logico`) e `leia()` | 🟢 Fácil | [Capítulo 02](capitulos/02-variaveis-tipos-e-entrada-de-dados.md) |
-| **03** | 🧮 **Operadores & Lógica** | Cálculos (`+`, `-`, `*`, `/`, `%`), comparações e operadores `e`/`ou` | 🟢 Fácil | [Capítulo 03](capitulos/03-operadores-aritmeticos-relacionais-e-logicos.md) |
+| **01** | 🚀 **Introdução e Portugol** | Algoritmos, console, `escreva()` e a interface web | 🟢 Fácil | [Capítulo 01](capitulos/01-introducao-e-portugol-webstudio.md) |
+| **02** | 📦 **Variáveis e Entrada** | Memória, tipos (`inteiro`, `real`, `cadeia`, `logico`) e `leia()` | 🟢 Fácil | [Capítulo 02](capitulos/02-variaveis-tipos-e-entrada-de-dados.md) |
+| **03** | 🧮 **Operadores e Lógica** | Cálculos (`+`, `-`, `*`, `/`, `%`), comparações e operadores `e`/`ou` | 🟢 Fácil | [Capítulo 03](capitulos/03-operadores-aritmeticos-relacionais-e-logicos.md) |
 | **04** | 🔀 **Condicionais (se / senao)** | Tomada de decisões simples, compostas e encadeadas | 🟡 Médio | [Capítulo 04](capitulos/04-estruturas-condicionais-se-senao.md) |
 | **05** | 🎛️ **Múltipla Escolha** | Menus interativos, estrutura `escolha / caso / pare` | 🟡 Médio | [Capítulo 05](capitulos/05-multipla-escolha-escolha-caso.md) |
 | **06** | 🔁 **Laços (enquanto / faca)** | Repetições, contadores, acumuladores e validação | 🟡 Médio | [Capítulo 06](capitulos/06-lacos-de-repeticao-enquanto-faca.md) |
-| **07** | 🔢 **Laço Contado & Mesa** | Loop `para`, tabuadas e a técnica do Teste de Mesa | 🟡 Médio | [Capítulo 07](capitulos/07-laco-contado-para-e-teste-de-mesa.md) |
+| **07** | 🔢 **Laço Contado e Mesa** | Loop `para`, tabuadas e a técnica do Teste de Mesa | 🟡 Médio | [Capítulo 07](capitulos/07-laco-contado-para-e-teste-de-mesa.md) |
 | **08** | 📋 **Vetores (Listas)** | Coleções unidimensionais, índices base-0 e buscas | 🔴 Desafio | [Capítulo 08](capitulos/08-vetores-listas-unidimensionais.md) |
 | **09** | 🗄️ **Matrizes (Tabelas)** | Estruturas bidimensionais (linhas $\times$ colunas) e tabuleiros | 🔴 Desafio | [Capítulo 09](capitulos/09-matrizes-tabelas-bidimensionais.md) |
-| **10** | 🧩 **Funções & Escopo** | Modularização, parâmetros, retorno e bibliotecas | 🔴 Desafio | [Capítulo 10](capitulos/10-funcoes-escopo-e-bibliotecas.md) |
+| **10** | 🧩 **Funções e Escopo** | Modularização, parâmetros, retorno e bibliotecas | 🔴 Desafio | [Capítulo 10](capitulos/10-funcoes-escopo-e-bibliotecas.md) |
 | **11** | 🏆 **Projeto Final Integrador** | Sistema de Gestão de Estoque e Jogo da Velha completo | 🏆 Master | [Capítulo 11](capitulos/11-projeto-final-integrador.md) |
 
 ---
 
 ## 🛠️ Como Estudar Sozinho (Manual do Autodidata)
 
-Aprender programação por conta própria é uma habilidade incrível. Para que seu aprendizado seja eficiente e duradouro, siga este método:
+Aprender programação por conta própria é uma habilidade incrível. Para que seu aprendizado seja eficiente e duradouro nesta trilha de aprendizagem, siga este método:
 
 ### 1. Digite com os próprios dedos, nunca dê Copiar e Colar
 > [!IMPORTANT]
@@ -122,7 +122,7 @@ Cada gabarito traz uma explicação linha a linha de por que aquela solução fu
 
 ## 📂 Códigos de Exemplo Prontos (`exemplos/`)
 
-Todos os exemplos principais do curso foram disponibilizados como arquivos `.por` prontos na pasta [`exemplos/`](exemplos/). Você pode abri-los diretamente no Portugol Webstudio para testes imediatos:
+Todos os exemplos principais da trilha de aprendizagem foram disponibilizados como arquivos `.por` prontos na pasta [`exemplos/`](exemplos/). Você pode abri-los diretamente no Portugol Webstudio para testes imediatos:
 
 - [`exemplos/cap01_ola_mundo.por`](exemplos/cap01_ola_mundo.por)
 - [`exemplos/cap02_variaveis_entrada.por`](exemplos/cap02_variaveis_entrada.por)
@@ -157,4 +157,4 @@ Marque suas conquistas à medida que avança na jornada:
 
 ---
 
-**Vamos começar?** Siga agora para o [👉 Capítulo 01: O que é Programar & Portugol Webstudio](capitulos/01-introducao-e-portugol-webstudio.md)!
+**Vamos começar?** Siga agora para o [👉 Capítulo 01: O que é Programar e Portugol Webstudio](capitulos/01-introducao-e-portugol-webstudio.md)!

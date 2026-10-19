@@ -1,4 +1,4 @@
-# 🚀 Capítulo 01: O que é Programar & Portugol Webstudio
+# 🚀 Capítulo 01: O que é Programar e Portugol Webstudio
 
 | 🏠 [Início](../README.md) | ⚡ [Guia Rápido](../guia-rapido-portugol.md) | ➡️ [Próximo: Variáveis e Entrada](02-variaveis-tipos-e-entrada-de-dados.md) |
 | :--- | :---: | ---: |
@@ -298,7 +298,7 @@ Um colega tentou rodar o código abaixo no Portugol Webstudio e recebeu mensagen
 // CÓDIGO COM DEFEITO:
 programa {
     Funcao inicio() {
-        escreva("Bem-vindo ao curso!\n)
+        escreva("Bem-vindo à trilha de aprendizagem!\n)
         escreva(Vamos aprender lógica juntos!)
     }
 ```
@@ -320,14 +320,14 @@ Analise:
 // CÓDIGO CORRIGIDO:
 programa {
     funcao inicio() {
-        escreva("Bem-vindo ao curso!\n")
+        escreva("Bem-vindo à trilha de aprendizagem!\n")
         escreva("Vamos aprender lógica juntos!\n")
     }
 }
 ```
 **Quais eram os erros?**
 1. `Funcao` com F maiúsculo (deve ser `funcao` minúsculo).
-2. Na linha 4 faltava fechar as aspas duplas antes do parêntese (`"Bem-vindo ao curso!\n"`).
+2. Na linha 4 faltava fechar as aspas duplas antes do parêntese (`"Bem-vindo à trilha de aprendizagem!\n"`).
 3. Na linha 5 o texto estava sem aspas duplas (`"Vamos aprender lógica juntos!\n"`).
 4. Faltava fechar a chave final do `programa {`.
 </details>
